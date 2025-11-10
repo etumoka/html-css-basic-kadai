@@ -71,8 +71,7 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
-  top: 100px;
+  position: relative;
   left: 200px;
 }
 
@@ -80,7 +79,6 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
-  top: 200px;
+  position: relative;
   left: 400px;
 }
